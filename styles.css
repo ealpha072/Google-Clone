@@ -1,0 +1,69 @@
+body{
+	text-align:center;
+	font-family: arial,sans-serif;
+}
+body nav{
+	text-align:end
+}
+ul {
+	list-style-type:none;
+}
+
+
+li {
+	display:inline;
+}
+
+
+li.headitems{
+	text-align:end;
+	display:inline;
+	margin:5px;
+}
+
+footer{
+	position:fixed;
+	bottom:0;
+	right:0;
+	left:0;
+	background-color:rgba(0,0,0,.2);
+	height:100px
+}
+
+.email{
+	border-radius:50%;
+
+}
+input{
+	height:34px;
+	width:500px;
+	border-radius:24px;
+}
+#logo{
+	margin-top:90px;
+	margin-bottom:20px
+}
+button{
+	height:36px;
+	width:150px;
+	text-align: center;
+	padding: 0 16px;
+	cursor:pointer;
+	text-align: center;
+	border: 1px solid #f2f2f2;
+	border-radius: 4px;
+	color:#5F6368;
+	margin-bottom: 20px;
+}
+#location{
+	text-align:left;
+	margin-left:0px;
+	padding-left: 27px;
+	font-size: 14px;
+	height:20px;
+	font-size:14px;
+	padding-top:15px;
+}
+#lastitems{
+	display:flex;
+}
