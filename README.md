@@ -1,3 +1,4 @@
 # google-homepage
-This is a clone of the google homepage.
-More addititons to ne made on the footer items
+
+In this beginner preoject, which is part of the Odin Projects curriculum, i attempt to clone the Google home page using plain css and html with no JS.
+
